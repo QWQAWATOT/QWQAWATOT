@@ -1,2 +1,2 @@
 # Ciallo～(∠・ω< )⌒☆
-![QWQAWATOT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QWQAWATOT)
+![](https://komarev.com/ghpvc/?username=QWQAWATOT&color=blue)
