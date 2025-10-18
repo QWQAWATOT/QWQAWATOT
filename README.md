@@ -1,2 +1,2 @@
 <h1>Ciallo～(∠・ω< )⌒☆</h1>
-![](https://komarev.com/ghpvc/?username=QWQAWATOT&color=green)
+![QWQAWATOT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QWQAWATOT)
